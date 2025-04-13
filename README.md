@@ -5,7 +5,7 @@ SafenetJr is a real-time web application designed to help parents monitor and ma
 ## 🚀 Features
 
 - Real-time monitoring of child's web browsing activity.
-- Chrome extension that captures browsing history every 20 seconds.
+- Chrome extension will send url to parent when the child click on any url.
 - Automatic classification and reporting of inappropriate content using ML.
 - Parent-child connection established securely via unique IDs.
 - Periodic POST requests to send activity data to the server.
